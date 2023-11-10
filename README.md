@@ -4,7 +4,7 @@ There are not many areas of digital products I haven't touched.
 
 I started my career in Product Management, specialising in data analysis (PostgreSQL, R). 
 
-Then I caught the coding bug, and retrained as a MERN (MongoDB - Express - React - Node) engineer. I'm happiest when my hands are dirty and I'm making things 🛠️
+Then I caught the JavaScript bug, and retrained as a MERN (MongoDB - Express - React - Node) engineer. I'm happiest when my hands are dirty and I'm making things 🛠️
 
 Currently, I consider myself a full stack software developer. As part of that, I consider it important to have a wide span of experience. As well as all of the above, I've written an iOS app, and over the years have tinkered with everything from AWS and Puppeteer to Reliance Jio's banana phone 🍌.
 <!--
