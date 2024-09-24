@@ -1,10 +1,10 @@
-	•	🚀 Full Stack Developer specializing in JavaScript (#NodeJS, #Express, #React) for both frontend and backend.
-	•	🗄️ Experienced with databases like (#PostgreSQL, #MongoDB, #TypeORM).
-	•	📱 Dabbles in mobile dev using #ReactNative and #SwiftUI.
-	•	🛠️ Daily user of CI/CD tools like #GitHub and #Docker.
-	•	❓ Studied formal logic as part of a Philosophy degree—problem-solving is my thing!
-	•	💻 Completely self-taught and always eager to learn new languages and frameworks.
-	•	📊 10+ years in product management (including senior roles), which helps me bridge the gap between tech and business needs.
+🚀 Full Stack Developer specialising in JavaScript (#NodeJS, #Express, #React) for both frontend and backend.
+🗄️ Experienced with databases (#PostgreSQL, #MongoDB, #TypeORM).
+📱 Dabbles in mobile dev using #ReactNative and #SwiftUI.
+🛠️ Daily user of CI/CD tools like #GitHub and #Docker.
+❓ Majored in formal logic as part of a Philosophy degree—problem-solving is my thing!
+💻 Completely self-taught and always eager to learn new things.
+📊 10+ years in product management (including senior/people management roles), which helps me build things that make sense.
 <!--
 **plabram/plabram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
