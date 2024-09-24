@@ -1,4 +1,4 @@
-Nive to meet you. I'm Penelope:
+Hello, I'm Penelope:
 * 🚀 Full Stack Developer specialising in JavaScript (#NodeJS, #Express, #React) for both frontend and backend.
 * 🗄️ Experienced with databases (#PostgreSQL, #MongoDB, #TypeORM).
 * 📱 Dabbles in mobile dev using #ReactNative and #SwiftUI.
