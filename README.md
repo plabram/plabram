@@ -2,7 +2,7 @@
 * 🗄️ Experienced with databases (#PostgreSQL, #MongoDB, #TypeORM).
 * 📱 Dabbles in mobile dev using #ReactNative and #SwiftUI.
 * 🛠️ Daily user of CI/CD tools like #GitHub and #Docker.
-* ❓ Majored in formal logic as part of a Philosophy degree—perhaps the best possible foundation for problem solving.
+* ❓ Majored in formal logic as part of a Philosophy degree.
 * 💻 Completely self-taught and always enjoy learning new things.
 * 📊 10+ years in product management, which helps me build things that make an impact.
 <!--
